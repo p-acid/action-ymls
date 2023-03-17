@@ -1,0 +1,8 @@
+{
+  "name": "action-ymls",
+  "version": "1.0.0",
+  "description": "A collection of GitHub Actions to improve your development process",
+  "repository": "https://github.com/p-acid/action-ymls.git",
+  "author": "p-acid <qkrtkstjd01@gmail.com>",
+  "license": "MIT"
+}
