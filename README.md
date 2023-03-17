@@ -28,6 +28,9 @@ A script to record your update history with Google's Github Actions plugin
 > ✋ **Need to prepare**
 >
 > - Add `package.json` file for versioning
+> - Approve workflow permissions in your project repo
+>   - Read and write permissions
+>   - Allow GitHub Actions to create and approve your pull requests
 
 - [`release-please.yml`](https://github.com/p-acid/action-ymls/blob/main/.github/workflows/release-please.yml)
 
